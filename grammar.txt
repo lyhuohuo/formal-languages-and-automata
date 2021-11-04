@@ -1,0 +1,7 @@
+V:S,Q,R
+SIGMA: a,b,c
+S:S
+P:
+S->Qc | c,
+Q->Rb | b,
+R->Sa | a
